@@ -54,7 +54,26 @@ Below is a preview of the **Shopify | Sales & Customer Funnel Report**:
 - Runner’s Shoes, Tennis Shoes, and Walking Shoes are top-performing products.
 - Shopify Payments dominates (58% of transactions), indicating user trust.
 - Top sales come from Washington, New York, Dallas, and Miami.
-- Sales trend is generally rising, with a peak in Period 24. 
+- Sales trend is generally rising, with a peak in Period 24.
+
+- **Recommendations for Sales Improvement**:
+- Convert one-time buyers with loyalty programs, email campaigns, and discounts on second orders.
+- Expand best-selling product lines (footwear) and bundle with accessories.
+- Target high-performing cities with location-based promotions and ads.
+- Promote Shopify Payments for faster, more trusted checkouts.
+- Increase purchase frequency through personalized product recommendations and seasonal deals.
+- Phase out low-performing products or reposition them with better offers.
+---
+
+## 🛠️ Tools Used
+- **Power BI Desktop**: For data modeling, calculations, and dashboard creation.  
+- **Power Query**: For data cleaning and preparation.  
+- **DAX**: For advanced calculations and metrics.
+---
+
+## 🤝 Contributing
+Contributions are welcome! Submit a pull request or raise an issue for suggestions and improvements.
+
 
 
 
