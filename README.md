@@ -46,14 +46,15 @@ Below is a preview of the **Shopify | Sales & Customer Funnel Report**:
 ## 📈 Insights Provided
 - Track Retention & Value KPIs like LTV(Life Time Value), Customer Purchase Behavior and Transaction Performance.   
 - Identify trends and actionable insights using visuals and narratives.  
-- Analyze key drivers of business performance.  
+- Analyze key drivers of business performance.
+    
 - **Detailed Insights**:
--High Net Sales ($4.18M) and AOV ($562.6) indicate strong revenue per transaction.
--46% Repeat Rate shows good customer loyalty, but over 50% are one-time buyers.
--Runner’s Shoes, Tennis Shoes, and Walking Shoes are top-performing products.
--Shopify Payments dominates (58% of transactions), indicating user trust.
--Top sales come from Washington, New York, Dallas, and Miami.
--Sales trend is generally rising, with a peak in Period 24. 
+- High Net Sales ($4.18M) and AOV ($562.6) indicate strong revenue per transaction.
+- 46% Repeat Rate shows good customer loyalty, but over 50% are one-time buyers.
+- Runner’s Shoes, Tennis Shoes, and Walking Shoes are top-performing products.
+- Shopify Payments dominates (58% of transactions), indicating user trust.
+- Top sales come from Washington, New York, Dallas, and Miami.
+- Sales trend is generally rising, with a peak in Period 24. 
 
 
 
