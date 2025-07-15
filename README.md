@@ -8,7 +8,7 @@ This project is a **Power BI Dashboard** designed to visualize **Shopify's Sales
 
 ## 🖼️ Dashboard Preview
 Below is a preview of the **Shopify | Sales & Customer Funnel Report**:
-!(https://github.com/Manuk199719/PowerBI-Shopify-Sales-Customer-Funnel-Report/blob/2f777217ebe7747a16ea5c2d683221ab9cd74455/Shopify%20Dashboard.png)
+!(https://github.com/Manuk199719/PowerBI-Shopify-Sales-Customer-Funnel-Report/blob/2f777217ebe7747a16ea5c2d683221ab9cd74455/Shopify%20Dashboard.png?raw=true)
 
 
 ---
