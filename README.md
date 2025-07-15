@@ -26,9 +26,9 @@ Below is a preview of the **Shopify | Sales & Customer Funnel Report**:
 
 ## 🎓 Key Topics Covered
 - **Power Query**: Transform data.   
-- **DAX Calculations**: LTV values, custom labels, emojis in visuals.  
-- **New Features**: Card visual, Shape & Filled maps, smart narratives.
-  ---
+- **DAX Calculations**: LTV values, custom labels, emojis in visuals.
+- **New Features**: Card Visuals, Shape & Filled Maps, smart narratives. 
+---
 
 ## 🗂️ Files Included
 - **Shopify Analysis.pbix**: Power BI file with the completed dashboard.  
