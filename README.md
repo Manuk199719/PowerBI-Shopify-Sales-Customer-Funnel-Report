@@ -2,7 +2,7 @@
 
 
 ## 📊 Overview
-This project is a **Power BI Dashboard** designed to visualize Shopify's sales performance. The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
+This project is a **Power BI Dashboard** designed to visualize **Shopify's Sales performance**. The goal of this project is to analyze Shopify sales data in Power BI to uncover meaningful insights into transaction performance, customer purchasing behavior, and long-term customer value. By designing an interactive dashboard, the objective is to help stakeholders identify patterns in revenue generation, customer retention, and engagement trends to support data-driven decision-making.
 
 ---
 
@@ -48,12 +48,12 @@ Below is a preview of the **Shopify | Sales & Customer Funnel Report**:
 - Identify trends and actionable insights using visuals and narratives.  
 - Analyze key drivers of business performance.  
 - **Detailed Insights**:
-  -High Net Sales ($4.18M) and AOV ($562.6) indicate strong revenue per transaction.
-  -46% Repeat Rate shows good customer loyalty, but over 50% are one-time buyers.
-  -Runner’s Shoes, Tennis Shoes, and Walking Shoes are top-performing products.
-  -Shopify Payments dominates (58% of transactions), indicating user trust.
-  -Top sales come from Washington, New York, Dallas, and Miami.
-  -Sales trend is generally rising, with a peak in Period 24. 
+-High Net Sales ($4.18M) and AOV ($562.6) indicate strong revenue per transaction.
+-46% Repeat Rate shows good customer loyalty, but over 50% are one-time buyers.
+-Runner’s Shoes, Tennis Shoes, and Walking Shoes are top-performing products.
+-Shopify Payments dominates (58% of transactions), indicating user trust.
+-Top sales come from Washington, New York, Dallas, and Miami.
+-Sales trend is generally rising, with a peak in Period 24. 
 
 
 
